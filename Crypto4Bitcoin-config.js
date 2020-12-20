@@ -11,26 +11,26 @@ module.exports = {
     author: `@Crypto4Bitcoin`,
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
+    `Crypto4Bitcoin`,
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: `Crypto4Bitcoin`,
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    `Crypto4Bitcoin`,
+    `Crypto4Bitcoin`,
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: `Crypto4Bitcoin`,
       options: {
-        name: `gatsby-starter-default`,
+        name: `Crypto4Bitcoin`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/Crypto4Bitcoin-icon.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
