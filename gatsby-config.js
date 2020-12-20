@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `There Can Only Be 1`,
+    title: `Coming $oon`,
     description: `To jump right into it, you are here to learn about cryptocurrency and bitcoin.
 
     On this site you'll find everything you need to start using cryptocurrency and bitcoins like paper currency.
