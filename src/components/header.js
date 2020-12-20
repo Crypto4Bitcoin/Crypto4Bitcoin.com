@@ -1,4 +1,4 @@
-import { Link } from "gatsby"
+import { Link } from "Crypto4Bitcoin"
 import PropTypes from "prop-types"
 import React from "react"
 
