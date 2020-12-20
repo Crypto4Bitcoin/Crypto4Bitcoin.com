@@ -1,8 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `There Can Only Be 1`,
+    description: `To jump right into it, you are here to learn about cryptocurrency and bitcoin.
+
+    On this site you'll find everything you need to start using cryptocurrency and bitcoins like paper currency.
+    Paper currency (aka Cash/Money/fiat currency) is use to exchange for goods and services for hundreds of years now.
+    We have exchanged all sorts of things for goods and services, now we
+    have something revolutionary and changing the way we exchange money.
+    It's called Cryptocurrency.`,
+    author: `@Crypto4Bitcoin`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -24,7 +30,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/1-pix-c4b no background.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
