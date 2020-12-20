@@ -11,14 +11,14 @@ type DataProps = {
   }
 }
 
-const UsingTypescript: React.FC<PageProps<DataProps>> = ({ data, path }) => (
+const UsingTypescript: React.FC<PageProps<DataProps>> = ({  }) => (
   <Layout>
     <SEO title="Using TypeScript" />
-    <h1>Gatsby supports TypeScript by default!</h1>
-    <p>This means that you can create and write <em>.ts/.tsx</em> files for your pages, components etc. Please note that the <em>gatsby-*.js</em> files (like gatsby-node.js) currently don't support TypeScript yet.</p>
-    <p>For type checking you'll want to install <em>typescript</em> via npm and run <em>tsc --init</em> to create a <em>.tsconfig</em> file.</p>
-    <p>You're currently on the page "{path}" which was built on {data.site.buildTime}.</p>
-    <p>To learn more, head over to our <a href="https://www.gatsbyjs.com/docs/typescript/">documentation about TypeScript</a>.</p>
+    <h1>Crypto4Bitcoin The One</h1>
+    <p>At crypto4bitcoin you'll learn everything you need to learn when it comes to cryptocurrency.</p>
+    <p>Where to get digital assets. Where to keep digital assets. How to turn your digital assets into cash and more.</p>
+    <p>Our goal is to help you stay safe and prevent you from being scammed by untrustworthy people. This new technology is amazing, so our job is to teach you how to keep your money secure and safe. This system is built on trust and there are people in the world who will take full advantage of your trust. We are here to help you on your journey into the crypto community world of trust.</p>
+    <p>To learn more, head over to our <a href="https://www.crypto4bitcoin.app/">Crypto Learning Center</a>.</p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
