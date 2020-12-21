@@ -37,7 +37,7 @@ const Layout = ({ children }) => {
         <footer style={{
           marginTop: `2rem`
         }}>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, Built by
           {` `}
           <a href="https://www.crypto4bitcoin.app">Crypto4Bitcoin</a>
         </footer>
