@@ -2,6 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
+<meta name="monetization" content="$coil.xrptipbot.com/OLpZQUSVSmmSgp48l0oMMA"></meta>
 const Header = ({ siteTitle }) => (
   <header
     style={{
