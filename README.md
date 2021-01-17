@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.crypto4bitcoin.com">
-    <img alt="Gatsby" src="https://crypto4bitcoin.keybase.pub/1-pix-Crypto4Bitcoin.png" width="60" />
+    <img alt="Crypto4Bitcoin" src="https://www.crypto4bitcoin.com/static/f4903b90ede29d4fb96d8a2de9c17e01/630fb/Crypto4Bitcoin-astronaut.png" width="60" />
   </a>
 </p>
 <h1 align="center">
